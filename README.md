@@ -15,7 +15,7 @@ PIF Spaces ( Saudi Arabia Public Investment Fund)
 
 <br />
 <div align="center">
-  <a href="https://github.com/victorcappa/sprite-wakanda-capaign">
+  <a href="https://github.com/victorcappa/PIF-Space">
     <img src="logo.png" alt="Logo" width="80" height="80">
   </a>
 
